@@ -41,6 +41,15 @@ p {
   text-align: center;
 }
 
+.thinking{
+  padding-left: 20px;
+}
+
+.skills{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 /* Links */
 
 a {
@@ -243,8 +252,6 @@ bt {
 #contact {
   padding: 40px 0;
 }
-
-.contact-form {}
 
 .contact-form label {
   color: #999;
